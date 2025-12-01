@@ -1,4 +1,29 @@
-# 12300402
-House Price Prediction is a Machine Learning project that predicts real estate prices using historical data. The project applies multiple regression techniques including Linear Regression, Random Forest Regressor, and XGBoost Regressor to build an accurate predictive model.
+# Machine Learning Project
 
-This project demonstrates data preprocessing, feature engineering, exploratory data analysis (EDA), model training, evaluation, and visualization of results.
+**Student:** Prabhjot Kaur  
+**Registration Number:** 12300402  
+**Course:** B.Tech CSE  
+**University:** DAV University, Jalandhar
+
+## Project Overview
+This project predicts the **median house value** (`median_house_value`) using multiple machine learning models such as Linear Regression, Random Forest, and XGBoost.  
+
+## Dataset
+The dataset is sourced from **Kaggle**.  
+
+## How to Run
+1. Open `final12300402.ipynb` in Google Colab.  
+2. Make sure the dataset path is correct (`data/Housing.csv`).  
+3. Run all cells to see the results.
+
+## Results
+- Linear Regression R² Score: 0.63  
+- Random Forest R² Score: 0.81  
+- XGBoost R² Score: 0.829  
+
+## Guidance
+This project was completed under the guidance of **AppTechies Company**.
+
+## Acknowledgements
+- Dataset sourced from Kaggle.  
+- Guided by AppTechies Company.
